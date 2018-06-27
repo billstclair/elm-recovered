@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "summary": "elm-recovered tracks recovery of packages that have been removed from GitHub",
     "repository": "https://github.com/billstclair/elm-recovered.git",
     "license": "MIT",
@@ -7,7 +7,7 @@
         "src"
     ],
     "exposed-modules": [
-        "Recovered.Version"
+        "Recovered"
     ],
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0"
