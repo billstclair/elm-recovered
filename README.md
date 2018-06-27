@@ -6,6 +6,8 @@ This package has only this README file, plus a `Version` module.
 
 To add a newly recovered package, modify its source to add the `Recovered.` prefix to all of its module names, `elm package publish` it, then submit a pull request to https://github.com/billstclair/elm-recovered, adding the new package to the list below in this `README.md` file (alphabetical by the package name after the user prefix). I'll take care of bumping the version number and changing `Version.elm` to match.
 
+# Recovered Packages
+
 * [billstclair/elm-recovered-utf8](http://package.elm-lang.org/packages/billstclair/elm-recovered-utf8/latest) recovers [spisemisu/elm-utf8](http://package.elm-lang.org/packages/spisemisu/elm-utf8/latest)
 
 Bill St. Clair
