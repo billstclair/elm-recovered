@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "summary": "elm-recovered tracks recovery of packages that have been removed from GitHub",
     "repository": "https://github.com/billstclair/elm-recovered.git",
     "license": "MIT",

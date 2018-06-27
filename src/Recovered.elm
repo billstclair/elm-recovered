@@ -23,9 +23,6 @@ type alias Recovery =
 
 
 {-| A machine-readable list of recovered packages
-
-    [(old-name, new-name), ...]
-
 -}
 recoveredPackages : List Recovery
 recoveredPackages =
